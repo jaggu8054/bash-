@@ -17,5 +17,5 @@ ls -l >>jju  it will add the output and new also
 
 awk '{print $1}' -> print the first character 
 date 
--n  -> net line 
+-n  -> next line 
 
