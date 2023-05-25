@@ -1,0 +1,19 @@
+bash script commands 
+
+1. useradd 
+2. passwd 
+3. /etc/passwd -> to check the password 
+to user to give root 
+cd /etc/sudoers -> %jaggu  add the user 
+
+jaggu.sh  -> scripting file 
+./jaggu.sh -> output for the scripting file 
+
+ls -l>jju -> for the output of the file 
+ls -l >>jju  it will add the output and new also 
+
+1>jaggu ->success full output 
+2> error 0utput 
+
+awk '{print $1}' -> print the first character 
+
