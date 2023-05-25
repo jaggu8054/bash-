@@ -16,4 +16,5 @@ ls -l >>jju  it will add the output and new also
 2> error 0utput 
 
 awk '{print $1}' -> print the first character 
+date 
 
